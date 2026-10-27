@@ -1,0 +1,21 @@
+# Local datasets, generated tables, and potentially personal claim records
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+# Trained model artifacts
+*.pkl
+*.pickle
+*.joblib
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+# Environments and IDE files
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.DS_Store
